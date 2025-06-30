@@ -1,6 +1,6 @@
 # Okeanos Explorer eDNA (okex)
 
-Files associated with the eDNA sequenced from NOAA Ship *Okeanos Explorer*.
+Files associated with eDNA data from NOAA Ship *Okeanos Explorer*.
 
 This project is supported by the following awards:
 
