@@ -1,8 +1,10 @@
-# [study short name]
+# Okeanos Explorer eDNA (okex)
 
-Files associated with [brief study title]. A study examining [goal of study].
+Files associated with the eDNA sequenced from NOAA Ship *Okeanos Explorer*.
 
-* Study title: [study title on proposal or in NRDD]
+This project is supported by the following awards:
+
+* A Comprehensive Bioinformatics Platform for Marine eDNA and Microbiome Data (NA21OAR4320190-T3-01S040)
 
 The structure of this repository is:
 
